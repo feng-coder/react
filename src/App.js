@@ -2,7 +2,9 @@ import React from 'react';
 
 function App() {
   const value = 'World';
-  return <div>Hello to my first java script page  {value}</div>;
+  const date = GeolocationCoordinates
+
+  return <div>Hello to my first java script page {date}  {value}</div>;
 }
 
 export default App;
