@@ -4,7 +4,7 @@ function App() {
   const value = 'World';
 
 
-  return <div>Hello to my first java script page  {value}</div>;
+  return <div> please vist my website www.yahoo.com Hello to my first java script page  {value}</div>;
 }
 
 export default App;
